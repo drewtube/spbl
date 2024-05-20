@@ -37,4 +37,4 @@ spbl https://pastebin.com/raw/abcdefg --silent
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE)
+This project is licensed under the [Drewcotech Open Source License](LICENSE.md)
