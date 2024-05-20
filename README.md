@@ -27,7 +27,8 @@ spbl <pastebin_url> [--silent] [--verbose] [--clearscreen]
 
 Example:
 ```
-spbl https://pastebin.com/raw/abcdefg --silent
+spbl https://pastebin.com/raw/74Se9pMB --silent
+(this script downloads node.js, installs neofetch, and then runs it)
 ```
 ## Security Considerations
 
