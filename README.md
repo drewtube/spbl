@@ -12,7 +12,7 @@ Simple Pastebin Loader (spbl) is a command-line tool designed to fetch and execu
 
 ## Installation
 
-No installation is required for the `spbl` script. Simply download the `spbl.bat` file and place it in a directory accessible from the command line.
+No installation is required for the `spbl` script. Simply download the `spbl.exe` file and place it in a directory accessible from the command line.
 
 ## Usage
 
